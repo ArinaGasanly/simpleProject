@@ -1,3 +1,5 @@
-import slider from './modules/slider'
+'use strict';
 
-slider()
+import call from './modules/call'
+
+call()
