@@ -1,6 +1,6 @@
 const call = () => {
   const modal = document.querySelector(".modal-callback")
-  const cover = ddocument.querySelector(".modal-overlay")
+  const cover = document.querySelector(".modal-overlay")
   const body = document.querySelector("body")
   
 
